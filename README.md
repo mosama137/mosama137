@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
-<h3 align="center">Passionate Data Scientist and Junior Backend Developer With a strong foundation in data analysis and backend development, I thrive at the intersection of data and technology. Leveraging my experience in Python, SQL, and machine learning, I love transforming complex datasets into actionable insights and building robust backend solutions. Always eager to learn and explore new technologies, I'm driven by the desire to create innovative solutions that make a difference.</h3>
+<h3 align="center">Hello! I’m Mohamed, a full-stack developer (web and mobile) and data engineer with experience building integrated software solutions that combine seamless user experiences with robust data processing and analytics capabilities.
+
+In application development, I design and implement web and mobile applications using modern technologies, with a strong focus on:
+
+Intuitive, user-friendly interfaces.
+Efficient integration with databases and APIs.
+Writing clean, maintainable, and scalable code following industry best practices.
+In data engineering and analytics, I have extensive experience in:
+
+Managing relational (SQL) databases and optimizing query performance.
+Designing and implementing ETL pipelines to transform and cleanse data.
+Ensuring data quality by handling duplicates, diagnosing error sources, and managing schema changes—even in large-scale systems.
+Beyond my technical skills, I excel at clear communication with both technical and non-technical teams. I can explain complex concepts in simple terms—whether in Arabic or English—helping accelerate decision-making and ensuring accurate requirement implementation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosama137&label=Profile%20views&color=0e75b6&style=flat" alt="mosama137" /> </p>
 
